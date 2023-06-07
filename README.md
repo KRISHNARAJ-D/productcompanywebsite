@@ -85,7 +85,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2023 EduSoft Private Limited, Developed by Priyanka.A
+        Copyright &#169; 2023 EduSoft Private Limited, Developed by KRISHNARAJ D
       </div>
     </div>
   </body>
@@ -205,7 +205,7 @@ Publish the website in the given URL.
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2023 EduSoft Private Limited, Developed by Priyanka.
+        Copyright &#169; 2023 EduSoft Private Limited, Developed by KRISHNARAJ D.
       </div>
     </div>
   </body>
@@ -283,7 +283,7 @@ Publish the website in the given URL.
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2023 EduSoft Private Limited, Developed by B.Mohamed Athil.
+        Copyright &#169; 2023 EduSoft Private Limited, Developed by KRISHNARAJ D.
       </div>
     </div>
   </body>
@@ -341,7 +341,7 @@ Publish the website in the given URL.
     
   </div>
    <div class="footer">
-        Copyright &#169; 2023 EduSoft Private Limited, Developed by B.Mohamed Athil.
+        Copyright &#169; 2023 EduSoft Private Limited, Developed by KRISHNARAJ D.
       </div>
       </div>
 </body>
